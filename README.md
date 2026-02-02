@@ -1,25 +1,18 @@
 # RazorzMacroMod
 Macro &amp; Keybind Mod for Minecraft 1.21+ (NeoForge &amp; Fabric)
-## Features
-- Full keyboard macro binding
-- Powerful scripting system
-- Visual cooldown timer overlay
-- Chat trigger automation
-- External script file support
- 
+
+# Razorz Macro Mod - Issue Tracker
+
+This repository is for **bug reports** and **feature requests** only.
+
 ## Downloads
-- [CurseForge](Coming Soon)
-- [Modrinth](Coming Soon) (optional)
- 
-## Documentation
-- [Getting Started](Coming Soon)
-- [Scripting Guide](Coming Soon)
-- [Cooldown Timers](Coming Soon)
- 
+- **CurseForge**: [Download Here](Coming Soon)
+
+## Reporting Issues
+Click the **Issues** tab above to:
+- 🐛 [Report a Bug](../../issues/new?template=bug_report.md)
+- 💡 [Request a Feature](../../issues/new?template=feature_request.md)
+
 ## Support
-- **Issues & Bugs**: [GitHub Issues](../../issues)
-- **Feature Requests**: [GitHub Issues](../../issues)
 - **Patreon**: [Support Development](Coming Soon)
- 
-## License
 [MIT License](LICENSE)
