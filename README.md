@@ -1,7 +1,7 @@
 # RazorzMacroMod
 Macro &amp; Keybind Mod for Minecraft 1.21+ (NeoForge &amp; Fabric)
 
-# Razorz Macro Mod - Issue Tracker
+# Issue Tracker
 
 This repository is for **bug reports** and **feature requests** only.
 
